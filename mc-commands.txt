@@ -1,0 +1,2 @@
+SET DAY: "/time set day"
+SET NIGHT: "/time set night"
