@@ -1,2 +1,2 @@
-SET DAY: "/time set day"
-SET NIGHT: "/time set night"
+TIME: "/time set day"
+TIME: "/time set night"
